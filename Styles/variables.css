@@ -1,0 +1,23 @@
+:root {
+   /* Primary */
+    --red: hsl(0, 100%, 67%);
+    --yellow: hsl(39, 100%, 56%);
+    --green: hsl(166, 100%, 37%);
+    --blue: hsl(234, 85%, 45%);
+    /* Gradients */
+    --purple: hsl(252, 100%, 67%);
+    --rblue: hsl(241, 81%, 54%);
+    --violet: hsla(256, 72%, 46%, 1);
+    --prblue: hsla(241, 72%, 46%, 0);
+    --tred: hsla(0, 100%, 67%, 0.123);
+    --tyellow: hsl(39, 100%, 56%, 0.123);
+    --tgreen: hsl(166, 100%, 37%, 0.123);
+    --tblue: hsl(234, 85%, 45%, 0.123);
+    /* Neutral */
+    --white: hsl(0, 0%, 100%);
+    --pblue: hsl(221, 100%, 96%);
+    --lavender: hsl(241, 100%, 89%);
+    --gray: hsl(224, 30%, 27%);
+    --title: rgba(48, 59, 90, 0.89);
+
+}
